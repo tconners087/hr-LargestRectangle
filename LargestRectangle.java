@@ -24,7 +24,6 @@ class Node{
 }
 
 public class LargestRectangle {
-	
 	static long largest(int[] h) {
         long largest = Long.MIN_VALUE;
         if(h == null)
